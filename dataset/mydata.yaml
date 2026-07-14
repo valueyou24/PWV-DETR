@@ -1,0 +1,10 @@
+
+path: D:\DeepMed\rtdert_relate\PWV-DETR
+train: ./dataset/mydata/images/train
+val: ./dataset/mydata/images/test
+test: ./dataset/mydata/images/val
+
+nc: 1
+
+# Classes
+names: ['esophageal_cancer']
