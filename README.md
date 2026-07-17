@@ -4,12 +4,11 @@
     <a href="#en">English</a> | <a href="#zh">中文</a>
   </p>
   <p align="center">
-  <i>Hang He<sup>a</sup>, Jing Peng<sup>a</sup>, Yaning Zhang<sup>a</sup>, Xueyuan Wen<sup>a</sup>, Xiangde Min<sup>b</sup>, Shengzhou Xu<sup>a,c,*</sup></i>
+  <i>Hang He<sup>a</sup>, Peipei Zhang<sup>b</sup>, Xiangde Min<sup>b</sup>, Jing Peng<sup>a</sup>, Yaning Zhang<sup>a</sup>, Xueyuan Wen<sup>a</sup>, Shengzhou Xu<sup>a,*</sup></i>
   </p>
   <p align="center">
-  <sup>a</sup>College of Computer Science and Technology, South-Central Minzu University, Wuhan, 430074, China<br>
+  <sup>a</sup>College of Computer Science, South-Central Minzu University; Key Laboratory of Cyber-Physical Fusion Intelligent Computing, State Ethnic Affairs Commission, Wuhan 430074, China<br>
   <sup>b</sup>Department of Radiology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430030, China<br>
-  <sup>c</sup>Hubei Provincial Engineering Research Center for Intelligent Management of Manufacturing Enterprises, Wuhan, 430074, China
   </p>
 </p>
 
@@ -266,12 +265,11 @@ V-WIoU 在 Wise-IoU V3 的非单调动态聚焦机制基础上，引入垂直结
 ## Longitudinal Structure-Aware Network for Esophageal Lesion Detection in Barium Esophagram
 
 <p align="center">
-  <i>Hang He<sup>a</sup>, Jing Peng<sup>a</sup>, Yaning Zhang<sup>a</sup>, Xueyuan Wen<sup>a</sup>, Xiangde Min<sup>b</sup>, Shengzhou Xu<sup>a,c,*</sup></i>
+  <i>Hang He<sup>a</sup>, Peipei Zhang<sup>b</sup>, Xiangde Min<sup>b</sup>, Jing Peng<sup>a</sup>, Yaning Zhang<sup>a</sup>, Xueyuan Wen<sup>a</sup>, Shengzhou Xu<sup>a,*</sup></i>
   </p>
   <p align="center">
-  <sup>a</sup>College of Computer Science and Technology, South-Central Minzu University, Wuhan, 430074, China<br>
+  <sup>a</sup>College of Computer Science, South-Central Minzu University; Key Laboratory of Cyber-Physical Fusion Intelligent Computing, State Ethnic Affairs Commission, Wuhan 430074, China<br>
   <sup>b</sup>Department of Radiology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430030, China<br>
-  <sup>c</sup>Hubei Provincial Engineering Research Center for Intelligent Management of Manufacturing Enterprises, Wuhan, 430074, China
   </p>
 
 <p align="center">
